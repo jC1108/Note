@@ -1,3 +1,11 @@
+---
+date: 2024-10-05
+aliases:
+  - cal1
+tags:
+  - MATA30
+---
+
 
 ## Functions
 ### Trig funs
